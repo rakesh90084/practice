@@ -1,4 +1,4 @@
 a=5
-b=3
-c=a/b
+b=2
+c=a//2
 print(c)
