@@ -1,1 +1,1 @@
-print("raky")
+print("r")
